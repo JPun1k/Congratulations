@@ -12,8 +12,8 @@
 	flex-direction: column;
 }
 @media screen and (max-width: 400px) {
-	.instruction {
-		font-size: 15px;
+	p {
+		font-size: 14px;
 	}
 }
 
