@@ -19,7 +19,7 @@ main , footer {
 }
 @media screen and (max-width: 360px) {
 	h1 {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	img {
 		width: 80%;
